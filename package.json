@@ -1,6 +1,6 @@
 {
   "name": "three-default-cube-boilerplate",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "dependencies": {
     "@capacitor-community/admob": "1.2.6",
@@ -17,7 +17,7 @@
     "cordova-plugin-screen-orientation": "3.0.2",
     "es6-promise-plugin": "4.2.2",
     "howler": "2.2.1",
-    "postprocessing": "6.18.0",
+    "postprocessing": "6.19.0",
     "react": "16.13.1",
     "react-scripts": "3.4.1",
     "resize-observer-polyfill": "1.5.1",
